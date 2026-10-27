@@ -1,4 +1,4 @@
-# PW Opener 1.1.3
+# PW Opener 1.1.3.1
 
 PW Opener — удобная база персонажей и мультизапуск окон **Perfect World**.
 
@@ -56,4 +56,4 @@ Telegram: https://t.me/skipaq
 
 ---
 
-PW Opener 1.1.3 by Skp
+PW Opener 1.1.3.1 by Skp
